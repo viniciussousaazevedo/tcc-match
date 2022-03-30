@@ -77,3 +77,11 @@ O curso de Ciência da Computação da UFCG precisa de um sistema para facilitar
 34. Eu, como coordenador e administrador, gostaria de gerar um relatório com as informações sobre as orientações de TCC em curso e finalizadas por semestre, destacando as áreas do conhecimento relacionadas. 
 
 35. Eu, como coordenador e administrador, gostaria de gerar um relatório com os problemas de orientação apresentados no período, com separação de problemas reportados por alunos e professores.
+
+
+## Equipe:
+- [Vinícius Azevedo](https://github.com/viniciussousaazevedo)
+- [Pedro Ádrian](https://github.com/adrianmartinez-cg)
+- [Kilian Melcher](https://github.com/kmmelcher)
+- [Marcos Silva](https://github.com/marcossilvaxx)
+- [Gabriel Menezes](https://github.com/bielmenezesc)
