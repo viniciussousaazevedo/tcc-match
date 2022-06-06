@@ -4,6 +4,7 @@ O curso de Ciência da Computação da UFCG precisa de um sistema para facilitar
 
 - [Link para acesso ao sistema via Swagger](https://tcc-match-api.herokuapp.com/swagger-ui.html) 
 - [Documento com descrição de implementação das User Stories](https://docs.google.com/document/d/1qE7OkDa5Mkf1eOQOJDzVNbOP-8e0j5S1nqTq8Tq65Wg/edit)
+- [Localhost para executar a aplicação de forma local](http://localhost:8080/swagger-ui.html#/)
 
 ## User Stories implementadas
 
