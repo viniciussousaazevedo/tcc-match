@@ -77,7 +77,8 @@ public class AlunoController {
 			return ErroAluno.erroAlunoNaoEncontrado(id);
 		}
 
-		if (this.usuarioService.findByEmail(alunoDTO.getEmail()).isPresent()) {
+		if (this.usuarioService.findByEmail(alunoDTO.getEmail()).isPresent() &&
+				!alunoDTO.getEmail().equals(alunoOp.get().getEmail())) {
 			return ErroUsuario.erroEmailJaCadastrado();
 		}
 
